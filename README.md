@@ -6,7 +6,7 @@
 
 * <img align="center" src="./images/icon/linkedin.png" title = "twitter" alt="" height="20" /> [in/kiruthikaraja](https://www.linkedin.com/in/rajakiru/)
 * <img align="center" src="./images/icon/medium.png" title = "medium" alt="" height="20" /> [medium/rajakiru02](https://medium.com/@rajakiru02)
-* <img align="center" src="./images/icon/gg.png" title = "Twitter" alt="" width="20" /> [email/kiruthir](kiruthir@andrew.cmu.edu)
+* <img align="center" src="./images/icon/gg.png" title = "Twitter" alt="" width="20" /> [email/kiruthir](mailto:kiruthir@andrew.cmu.edu) 
 
 
 🖥️ master’s student who enjoys building web applications and understanding how systems work end-to-end<br>
