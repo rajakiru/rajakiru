@@ -1,10 +1,21 @@
-<h2>Hi, I'm Kiruthika 👋</h2>
-<p>
-  MS ECE @ Carnegie Mellon University • ML & AI
-</p>
-<p>
-  i enjoy building things
-</p>
+
+👋 Hi, I'm ***[Kiru](https://rajakiru.github.io/freshman-portfolio/)*** <br>
+**MS ECE @ Carnegie Mellon University | ML & AI Software Engineer**
+
+
+
+* <img align="center" src="./images/icon/linkedin.png" title = "twitter" alt="" height="20" /> [in/kiruthikaraja](https://www.linkedin.com/in/rajakiru/)
+* <img align="center" src="./images/icon/medium.png" title = "medium" alt="" height="20" /> [medium/rajakiru02](https://medium.com/@rajakiru02)
+* <img align="center" src="./images/icon/gg.png" title = "Twitter" alt="" width="20" /> [email/kiruthir](kiruthir@andrew.cmu.edu)
+
+
+🖥️ master’s student who enjoys building web applications and understanding how systems work end-to-end<br>
+🌱 engineer working at the intersection of ML research and production systems<br>
+🎨 like frontend & full-stack development — shipping things people actually use (e.g. [Recipe Box](https://recipebox.infinityfree.me/main.html?i=1))<br>
+📊 enjoy data visualization, interactive demos, and building things you can poke (e.g. [when did this exist?](https://whendidthisexist.vercel.app/))<br>
+🧠 work with LLMs, RAG, multimodal ML, and systems that need grounding<br>
+🚀 interested in where AI, humans, and real impact meet<br>
+🎬 in my free time: watch a lot of movies, edit film clips, and track everything on [Letterboxd](https://letterboxd.com/silakirukkal/)<br>
 
 <p style="display: inline-block;" align="center">
 
