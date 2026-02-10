@@ -11,11 +11,11 @@
 
 🖥️ master’s student who enjoys building web applications and understanding how systems work end-to-end<br>
 🌱 engineer working at the intersection of ML research and production systems<br>
-🎨 like frontend & full-stack development — shipping things people actually use (e.g. [Recipe Box](https://recipebox.infinityfree.me/main.html?i=1))<br>
+🎨 like frontend & full-stack development, shipping things people actually use (e.g. [recipe box](https://recipebox.infinityfree.me/main.html?i=1))<br>
 📊 enjoy data visualization, interactive demos, and building things you can poke (e.g. [when did this exist?](https://whendidthisexist.vercel.app/))<br>
 🧠 work with LLMs, RAG, multimodal ML, and systems that need grounding<br>
 🚀 interested in where AI, humans, and real impact meet<br>
-🎬 in my free time: watch a lot of movies, edit film clips, and track everything on [Letterboxd](https://letterboxd.com/silakirukkal/)<br>
+🎬 in my free time: watch a lot of movies, edit film clips, and track everything on [letterboxd](https://letterboxd.com/silakirukkal/)<br>
 
 <p style="display: inline-block;" align="center">
 
